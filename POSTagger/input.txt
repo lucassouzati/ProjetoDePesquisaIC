@@ -1,0 +1,1 @@
+Não é instância de uma classe.

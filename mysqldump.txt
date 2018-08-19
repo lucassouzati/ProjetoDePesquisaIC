@@ -1,0 +1,1 @@
+mysqldump -u root -pmysql --opt ead > ead.sql
